@@ -1,17 +1,33 @@
 # Scouting
-These are the courses I have done within scouting.
-Within scouting, I am a Assistant Troop Scouter, which means that I teach Children all kinds of things. This includes but is not limted to:
-First Aid
-Pioneering 
-Environmental Conservation
-Practical Skills like Electrician or Plumbing
-Cooking
-Survival
-Camping
-Safety Awareness
-Computer Literacy
-While I am not an expect at all of these, throught the years I have learnt a variety of skill. One of the most important however is Leadership, which is an important aspect of Scouting. I have also learnt how to work with other people, plan events 
 
-1. ![Scout Warrant Course img](Scout%20Warrant%20Course.jpeg)
-2. ![Rover Warrant Course img]('Rover Warrant Course.jpeg')
-3. ![Canoe Charge img]("Canoe Charge.jpeg") 
+![Canoe Charge](./Canoe%20Charge.jpeg)
+
+These are the courses and activities I've completed and helped lead within Scouting.
+
+## About me
+I serve as an Assistant Troop Scouter, which means I help teach and support children in a wide range of practical and outdoor skills. Over the years I've gained experience running activities, teaching practical skills, and mentoring young people.
+
+## Areas I teach / have experience with
+- First aid
+- Pioneering
+- Environmental conservation
+- Practical trades (basic electrician, plumbing)
+- Cooking
+- Survival skills
+- Camping
+- Safety awareness
+- Basic computer literacy
+
+While I'm not an expert in every area, I have hands-on experience and enjoy teaching and mentoring. One of the most important outcomes of Scouting for me is leadership development — building confidence and responsibility in young people.
+
+## Gallery
+If the images below do not show, the image files may not be present in the repository root. You can add them with the exact filenames shown.
+
+- ![Scout Warrant Course](./Scout%20Warrant%20Course.jpeg)
+- ![Rover Warrant Course](./Rover%20Warrant%20Course.jpeg)
+- ![Canoe Charge](./Canoe%20Charge.jpeg)
+
+## Get in touch
+If you'd like more details about any course or an example activity, open an issue or contact me through this repository.
+
+*Image credit: files in repository root.*
