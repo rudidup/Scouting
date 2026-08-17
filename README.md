@@ -12,5 +12,6 @@ Safety Awareness
 Computer Literacy
 While I am not an expect at all of these, throught the years I have learnt a variety of skill. One of the most important however is Leadership, which is an important aspect of Scouting. I have also learnt how to work with other people, plan events 
 
-1. ![Scout Warrant Course img] "Scout Warrant Course.jpeg"
-2. 
+1. ![Scout Warrant Course img](Scout Warrant Course.jpeg)
+2. ![Rover Warrant Course img](Rover Warrant Course.jpeg)
+3. ![Canoe Charge img](Canoe Charge.jpeg) 
