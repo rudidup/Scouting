@@ -1,7 +1,5 @@
 # Scouting
 
-![Canoe Charge](./Canoe%20Charge.jpeg)
-
 These are the courses and activities I've completed and helped lead within Scouting.
 
 ## About me
@@ -20,14 +18,8 @@ I serve as an Assistant Troop Scouter, which means I help teach and support chil
 
 While I'm not an expert in every area, I have hands-on experience and enjoy teaching and mentoring. One of the most important outcomes of Scouting for me is leadership development — building confidence and responsibility in young people.
 
-## Gallery
-If the images below do not show, the image files may not be present in the repository root. You can add them with the exact filenames shown.
+## Certificates
 
 - ![Scout Warrant Course](./Scout%20Warrant%20Course.jpeg)
 - ![Rover Warrant Course](./Rover%20Warrant%20Course.jpeg)
 - ![Canoe Charge](./Canoe%20Charge.jpeg)
-
-## Get in touch
-If you'd like more details about any course or an example activity, open an issue or contact me through this repository.
-
-*Image credit: files in repository root.*
